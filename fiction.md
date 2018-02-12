@@ -21,21 +21,7 @@ But despite the daily horrors she faces, there are creatures in the surrounding 
 
 ---
 
-
 ## Previously Published
-
-<img class="img-responsive center-block col-sm-3" src="/img/HuntersMoonTitle.jpg" alt="/img/HuntersMoonTitle.jpg">
-
-### Hunters Moon (horror)
-
-It should have been a relaxing holiday in a quiet French village.
-It should have been the enjoyable reunion of four university friends.
-What it should not have been was a descent into fear, revenge and death.
-Hiding her psychic abilities had become second nature to Jenny after receiving only ridicule and fear from others throughout her life. Yet now her powers might be the only thing to save her and her friends.
-
-This novella is available to [buy from Amazon](http://www.amazon.co.uk/Hunters-Moon-Charlotte-Bond-ebook/dp/B007ZESYNY/).
-
-<div class="clearfix"></div>
 
 ### The Apocalypse Has Been Good to Us (light-hearted science fiction/horror)
 
