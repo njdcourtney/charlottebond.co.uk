@@ -1,0 +1,36 @@
+---
+layout: default
+title: Red Riding Hood
+---
+
+Those who read my posts over at [Ginger Nuts of Horror](http://gingernutsofhorror.com/index.html) will know that I try to be fair in my reviews. I’ve only ever had one book where I was so appalled by the writing that I felt unable to write anything positive in a review. There is usually something of merit in most things. And if you want scathing film reviews, I would suggest checking out the [Pop Verse](http://pop-verse.com/) website, run by my Breaking the Glass Slipper co-host, Megan Graeig. That girl does not hold back.
+
+However, I’m going to break my embargo on fully negative reviews for a film which I believe thoroughly deserves it. That film is [“Red Riding Hood”]( http://www.imdb.com/title/tt1486185/?ref_=nv_sr_1).
+
+When I was a teenager, I went to visit my old babysitter who was living in Durham and studying at the university. On her bookshelf I found [“The Bloody Chamber and Other Stories”](https://www.amazon.co.uk/Bloody-Chamber-Other-Stories/dp/B009IJZ9DW/) by Angela Carter. I flicked through it and was soon hooked. The story that intrigued me the most was “The Company of Wolves”. I’d grown up reading Roald Dahl’s [“Revolting Rhymes”](https://www.amazon.co.uk/Revolting-Rhymes-Roald-Dahl-ebook/dp/B01LQSSBIW/) so retellings of fairy tales were nothing new to me. But this dark, sensual style was fascinating and “The Company of Wolves” started a lifelong love affair with the Red Riding Hood story.
+
+So naturally then, when I came across Catherine Hardwick’s version of “Red Riding Hood”, it was a must-see for me. I’d watched and vaguely enjoyed Hardwick’s handling of [“Twilight”](http://www.imdb.com/title/tt1099212/?ref_=nv_sr_2). I knew I was likely in for teenage angst in some form or another; what I hadn’t realised was just how weak the female protagonist was going to be and how dire the film would be overall.
+
+It was a painfully stereotypical start, with the Valerie (Little Red Riding Hood) as a little girl stroking the pig and refusing to kill a rabbit. I could deal with that sympathetic view of medieval life, even if I personally believed that any little girl squeamish about killing rabbits wasn’t likely to last long in those days – or if I could bring myself to believe that a wild rabbit would be so tame. Or so white.
+
+But what really irritated me is that Valerie is barely on the screen before she’s shown to be the love interest. In the space of less than five minutes, she’s gone from being the title protagonist to a bland, passive love interest, a secondary character almost, despite her title role. It is young Peter who leads Valerie away into the woods; it is he who mentions marriage and he who suggests running away. Valerie lacks any opinions or agency of her own.
+
+We then move to ten years later, when Valerie and Peter are both teenagers. Valerie’s sister is killed in mysterious circumstances and her demise brings about an opportunity for even more stereotyping. As the body is lying on the table, surrounded by shocked villagers, one of the men declares, “Let the women grieve in their own way” (by which he means, let’s leave them to their crying). He then leads the men out of the hut to go and have a meeting where they discuss what action they are going to take. The message is clear: women’s place is to wail and wrench their hair, the men’s place is to take all the action.
+
+I wouldn’t have minded all this so much if it had merely been a set up so that our valiant Valerie could break away from such bonds and expectations to become a proactive heroine. But that doesn’t happen.
+
+If Valerie were a real girl, I’d have some sympathy for her. It must be very hard to have a backbone when your mother is trying to control you and your intended’s matriarchal grandmother makes insensitive comments to you, indicating that she thinks the only value of a wife lies in her beauty. But this isn’t real life; it’s a film, and one clearly designed for teenage girls at that. If it’s going to show a young girl trapped in a controlling, sexist environment, it should show her breaking out of it, but it doesn’t. All the way through I was rooting for Valerie to go kick some arse, or even just show some bravery and initiative, but I was sadly disappointed.
+
+It’s not just the massive issues with the female protagonist that makes me consider this a bad film (and, believe me, I will happily watch some total rubbish). The storytelling is weak too. When the mysterious Solomon arrives (played by the ever entertaining Gary Oldman), his children pile out of the carriage and throw themselves at him, weeping uncontrollably. It’s a terribly crass moment and its only purpose is as a means of introducing the appalling plot dump that follows in the form of Solomon’s speech. I cringed whilst listening to what is simply a big hunk of back story. Seriously – could Hardwicke not have been more subtle? The children are then bundled back onto the coach and sent away, their usefulness to the plot over.
+
+Another point that irritated me was the celebration over the wolf’s death (not the real wolf but, inevitably, the brute they kill *thinking* it’s the real culprit). The celebration was ritualistic bordering on the orgiastic, which might have been plausible, if not for the horrendously modern music that accompanied it. Add in a strange style of dancing that looks more Regency than medieval, and it becomes a painful sequence to watch.
+
+As I mentioned above, I stuck it out, desperately hoping that Valerie would have some miraculous change of personality, that she would do something brilliant and proactive to redeem this film. But even at the end, it has to be revealed to her just who the werewolf is; she can’t even work it out for herself.
+
+I watched this at a time when I was finishing off my novel, [“The Poisoned Crow”]( https://www.amazon.co.uk/Poisoned-Crow-Charlotte-Bond-ebook/dp/B01GP1GEGQ/). My female protagonist, Maude, is nothing special; she has no magical ability, no love interest to provide her with motivation or conflict. But what Maude does have is resourcefulness and agency. I’m indebted to fellow writer [Andrew Knighton](http://andrewknighton.com/), who read a first draft of this and pointed out that my heroine had no agency at all, and stuff just happened to her. That made me take a step back; I had to reassess just who my heroine was and what place she had in my imaginary world. I’m glad that I did because she was just coasting along in the story, and only had a minor influence over her own fate. In short, she was just another Valerie. Spurred on by this comparison, I worked her to make her the complete opposite.
+
+So, in a weird way, despite this bad review, I guess I’m indebted to Hardwicke’s ‘Red Riding Hood”. It proved an instructive lesson on just how not to write a heroine.
+
+If, despite all I’ve said, you’re still tempted to watch “Red Riding Hood”, then that’s fine. As I mentioned above, everything appeals to someone. But please, if you do watch it, don’t stop there. Go read Angela Carter. Seek out [“The Book of Lost Things”]( https://www.amazon.co.uk/Book-Lost-Things-John-Connolly-ebook/dp/B002V0918O/) by John Connolly. Even read Roald Dahl.
+
+Just please: don’t let Valerie be your seminal Red Riding Hood. The legend deserves a heroine so much better than that.
