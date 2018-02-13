@@ -7,6 +7,38 @@ My first published piece was a fantasy piece in "The Sleepless Sands" anthology.
 
 ## Out Now!
 
+
+<img class="img-responsive centre-block col-sm-3" src="/img/Monstrous_Cover.jpg" alt="Monstrous Cover">
+
+### Monstrous
+
+Jenny is furious when her mother moves them both to a self-sufficient commune. Jenny is determined to leave but, when she tries, she encounters an unnatural and terrifying presence.
+
+Her new friend, Dan, is aware that there have been sinister goings on in Haven for some time. His home has become a place of unease and stalking shadows.
+
+In the darkness of the surrounding forest, the two of them have to decide just who is more monstrous: whatever lurks in the trees, or the inhabitants of Haven itself.
+
+This novella was published by Hersham Horror Press in September 2017 and is available [here](https://www.amazon.co.uk/Monstrous-Charlotte-Bond-ebook/dp/B075FVLSR6/)
+
+
+### The Lies We Tell
+
+An uncaring mother and unfaithful wife learns the consequences of telling one lie too many.
+
+This story was included in the anthology Great British Horror: Dark Satanic Mills, published in September 2017 and available [here](https://www.amazon.co.uk/Satanic-Mills-Great-British-Horror-ebook/dp/B077X2WK1X/)
+
+### The Wolves Are On Their Way
+
+A fairy tale with a twist, inspired by Terry Pratchett. In this version of Red Riding Hood, it is not the poor old grandmother who gets eaten by the wolves.
+
+This story was published in Andromeda Spaceways Magazine #68, published in September 2017 and available [here](http://andromedaspaceways.com/shop/asm-68/)
+
+### Sweet Revenge
+
+It's not the end of the story for Hansel or Gretel.
+
+This story was included in the anthology After the Happily Ever After, published in December 2016 by Transmundane Press. It is available [here](https://www.amazon.co.uk/After-Happily-Ever-collection-fractured-ebook/dp/B01MRYLKIE/)
+
 <img class="img-responsive centre-block col-sm-3" src="/img/PoisonedCrowSmall.jpg" alt="The Poisoned Crow   Cover">
 
 ### The Poisoned Crow
