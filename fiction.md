@@ -3,14 +3,13 @@ layout: default
 title: Fiction
 ---
 
-My first published piece was a fantasy piece in "The Sleepless Sands" anthology. This was followed up with "The Wild Hunt" on the Spinetinglers website, a story which was ultimately reprinted in their anthology. Since then, I've had published more fantasy, some science fiction, but mostly horror pieces. This culminated in a novella entitled "Hunter's Moon".
+My first published piece was a fantasy piece in "The Sleepless Sands" anthology. This was followed up with "The Wild Hunt" on the Spinetinglers website, a story which was ultimately reprinted in their anthology. Since then, I've had published more fantasy, some science fiction, but mostly horror pieces.
 
 ## Out Now!
 
+### Monstrous
 
 <img class="img-responsive centre-block col-sm-3" src="/img/Monstrous_Cover.jpg" alt="Monstrous Cover">
-
-### Monstrous
 
 Jenny is furious when her mother moves them both to a self-sufficient commune. Jenny is determined to leave but, when she tries, she encounters an unnatural and terrifying presence.
 
@@ -20,6 +19,7 @@ In the darkness of the surrounding forest, the two of them have to decide just w
 
 This novella was published by Hersham Horror Press in September 2017 and is available [here](https://www.amazon.co.uk/Monstrous-Charlotte-Bond-ebook/dp/B075FVLSR6/)
 
+<div class="clearfix"></div>
 
 ### The Lies We Tell
 
@@ -39,9 +39,9 @@ It's not the end of the story for Hansel or Gretel.
 
 This story was included in the anthology After the Happily Ever After, published in December 2016 by Transmundane Press. It is available [here](https://www.amazon.co.uk/After-Happily-Ever-collection-fractured-ebook/dp/B01MRYLKIE/)
 
-<img class="img-responsive centre-block col-sm-3" src="/img/PoisonedCrowSmall.jpg" alt="The Poisoned Crow   Cover">
-
 ### The Poisoned Crow
+
+<img class="img-responsive centre-block col-sm-3" src="/img/PoisonedCrowSmall.jpg" alt="The Poisoned Crow   Cover">
 
 [Available to buy now from Amazon](https://www.amazon.co.uk/Poisoned-Crow-Charlotte-Bond-ebook/dp/B01GP1GEGQ/)
 
