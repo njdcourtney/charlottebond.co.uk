@@ -4,11 +4,11 @@ title: Sue Moorcroft Princess Questions
 category: princessquestions
 ---
 
+2018 is the year of the princess! 
+
 <a href="http://www.suemoorcroft.com/">
 <img class="img-responsive col-sm-4 pull-right" src="/img/Year Of The Princess Questions/Sue Moorcroft.jpg" alt="Sue Moorcroft">
 </a>
-
-2018 is the year of the princess! 
 
 Throughout the year, I will be asking authors from a variety of genres as well as a host of others from editors to academics, what they think makes a definitive princess.
 
