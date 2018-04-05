@@ -19,14 +19,14 @@ She lives in Yorkshire, England, with her husband and dogs. She blogs at <http:/
 
 Janine is the first guest to provide us with an introduction!
 
-Thanks for having me, but fair warning that I don't find the word "princess" a particularly positive one. I find the way little girls are encouraged by movies and fiction to fixate on them actually sort of creepy and unhealthy. As an adult (and a writer of romantic and erotic fantasy) I can certainly see the dramatic attraction of a beautiful young woman thrust into a perilous situation and robbed of her accustomed dignity and complacent -- I am, however, not sure that's a particularly good role model for kids to aspire to ;-) Personally I'd rather see more non-princess heroines in fiction aimed at children.
+Thanks for having me, but fair warning that I don't find the word "princess" a particularly positive one. I find the way little girls are encouraged by movies and fiction to fixate on them actually sort of creepy and unhealthy. As an adult (and a writer of romantic and erotic fantasy) I can certainly see the dramatic attraction of a beautiful young woman thrust into a perilous situation and robbed of her accustomed dignity and complacency -- I am, however, not sure that's a particularly good role model for kids to aspire to ;-) Personally I'd rather see more non-princess heroines in fiction aimed at children.
 
 
 **_1. What three attributes do you think a princess ought to have?_**
 
 *Class privilege* Come on, admit it - this is inescapable! A princess has to be from an elite social class. If she wasn't, she'd be called a "heroine" instead. Princesses don't have to be heroic, or indeed do anything at all; the story automatically revolves around them because of their status at birth. In the more old-fashioned fairy tales, like *Sleeping Beauty*, she literally doesn't even have to be conscious. NB: She doesn't have to have the little "princess" - Pocahontas is a chieftain's daughter, Jasmine is a sultan's daughter. Belle isn't a princess at first (she's overtly middle-class), but she becomes one by her marriage - same goes for Cinderella. Esmerelda doesn't get to be called a princess at all because she's WAY too lower class... and sexy.
 
-*Naivety* This follows from the privileged and sheltered upbringing above. In the course of the story the princess generally finds herself forced out into the wider world and has to interact with people who don't automatically serve her or have her interests at heart. Some may be enemies. This is an awakening for the princess, both a step into a more adult understanding of the world and a broadening of her social class/horizons. She has to learn to negotiate, and to create allies from strangers. This makes psychological sense to a very young reader/viewer, who has to go through a similar journey from a relatively sheltered childhood (one hopes) to adult agency in a different world.
+*Naivety* This follows from the privileged and sheltered upbringing above. In the course of the story the princess generally finds herself forced out into the wider world and has to interact with people who don't automatically serve her or have her interests at heart. Some may be enemies. This is an awakening for the princess, both a step into a more adult understanding of the world and a broadening of her social class/horizons. She has to learn to negotiate, and to create allies from strangers. This makes psychological sense to a very young reader/viewer, who has to go through a similar journey from a relatively sheltered childhood (one hopes) to adult agency in an indifferent world.
 
 *Great hair*
 
@@ -43,7 +43,7 @@ Those that begin with an "M" it seems. I like Moana best of all, and Merida too,
 
 **_4. A lot of people look down on the older Disney princesses, such as Snow White and Aurora, as being too passive and subservient. Do you think there are good qualities in these outdated princesses that modern girls and boys can aspire to?_**
 
-They're unfailingly kind, especially to animals, which is a good thing in my middle-aged opinion. It's an undervalued virtue these days. And this kindness wins them friend, which allows them to survive and succeed in life. Social networking is one of the strong points of an old-fashioned princess, and that's a good lesson. No man (or princess) is an island, complete of themselves...
+They're unfailingly kind, especially to animals, which is a good thing in my middle-aged opinion. It's an undervalued virtue these days. And this kindness wins them friends, which allows them to survive and succeed in life. Social networking is one of the strong points of an old-fashioned princess, and that's a good lesson. No man (or princess) is an island, complete of themselves...
 
 
 **_5. What’s the ideal outfit for a princess, including a can’t-do-without accessory?_**
