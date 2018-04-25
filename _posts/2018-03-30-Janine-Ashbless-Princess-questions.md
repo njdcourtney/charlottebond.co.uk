@@ -4,7 +4,7 @@ title: Janine Ashbless Princess Questions
 category: princessquestions
 ---
 
-2018 is the year of the princess! 
+2018 is the year of the princess!
 
 Throughout the year, I will be asking authors from a variety of genres as well as a host of others from editors to academics, what they think makes a definitive princess.
 
@@ -12,7 +12,7 @@ Janine Ashbless is an award-winning author of hot romance and erotica, mostly wi
 
 She lives in Yorkshire, England, with her husband and dogs. She blogs at <http://www.janineashbless.blogspot.com>.
 
-<a href="http://sam-stone.blogspot.co.uk">
+<a href="http://www.janineashbless.blogspot.com">
 <img class="img-responsive col-sm-4 pull-right" src="/img/Year Of The Princess Questions/Janine Ashbless.jpg" alt="Janine Ashbless">
 </a>
 
