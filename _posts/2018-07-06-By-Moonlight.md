@@ -72,3 +72,9 @@ While Cassy's aching arms could not lift the axe, she wouldn't leave it behind s
 The first to approach her was the Sauvin, the village headsman, although she could see others clustering behind him. He stepped in front of her, forcing her to stop. 'What have you done?' He looked her up and down with such horror that she looked down at herself for the first time. She saw that her father's cloak was no long grey, but red and dripping.
 
 She looked up and met Sauvin's stare for a moment before she pushed passed him, saying, 'I have down what you could not.' 
+
+<div class="text-right">
+Copyright Charlotte Bond 2018<br>
+All rights reserved<br>
+This story or any portion may not be reproduced or used without the express permission of the author.
+</div>
