@@ -4,7 +4,7 @@ title: Gift of the Sea
 category: flashfiction
 ---
 
-*For Lucy  
+*For Lucy Hounsom  
 Who shares my love of fairy tales*
 
 She had no name, for sound doesn't carry underwater. The merpeople spoke through gesture and expression. Beneath the waves, she was a touch to the shoulder with three fingers. On the shore, she didn't know what she was called for none of the others ventured up here to speak her. But she loved to sit and feel the air crinkle her skin. Her hair, instead of billowing out behind her, hung heavy from her head, tugging at her scalp. It felt solid.
