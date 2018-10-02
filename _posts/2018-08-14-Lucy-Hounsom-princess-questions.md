@@ -4,6 +4,8 @@ title: Lucy Hounsom Princess Questions
 category: princessquestions
 ---
 
+2018 is the year of the princess!
+
 Throughout the year, I will be asking authors from a variety of genres as well as a host of others from editors to academics, what they think makes a definitive princess.
 
 This month we are joined by Lucy Hounsom, the author of *The Worldmaker Trilogy*. Her first book, "Starborn" was shortlisted for the 2016 Gemmell Awards for Best Fantasy Debut. She is a Waterstones bookseller who co-hosts the geek feminist podcast, "Breaking The Glass Slipper", currently shortlisted for a British Fantasy Award (Best Audio). She lives half the time in Devon with two cats and the other half in Skyrim.
