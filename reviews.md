@@ -7,15 +7,44 @@ I am member of the [reviewing team](http://gingernutsofhorror.com/the-team.html)
 
 I've written quite a few reviews over there for the following books:
 
-* [Mayhem](http://gingernutsofhorror.com/4/post/2014/09/review-mayhem-by-sarah-pinborough.html) by Sarah Pinborough
-* [The Scarlet Gospels](http://gingernutsofhorror.com/25/post/2015/05/the-scarlet-gospels-a-review.html) by Clive Barker (and also a review of the original [Hellraiser film](http://www.gingernutsofhorror.com/9/post/2014/09/charlotte-bond-opens-the-box.html) )
-* [The Mothers](http://gingernutsofhorror.com/4/post/2015/10/the-transgression-cycle-the-mothers-by-mike-jones.html) by Mike Jones
-* [Lucky's Girl](http://gingernutsofhorror.com/4/post/2015/02/horror-novel-review-luckys-girl-by-william-holloway.html) by William Holloway
-* [Campfire Chillers](http://gingernutsofhorror.com/4/post/2014/08/horror-review-campfire-chillers-by-dave-jeffery.html) by Dave Jeffery
-* [The Pines](http://gingernutsofhorror.com/4/post/2014/07/horror-novel-review-the-pines-by-robert-dunbar.html) by Robert Dunbar
-* [Terror Tales of the Lake District](http://gingernutsofhorror.com/4/post/2014/07/horror-review-terror-tales-of-the-lake-district-edited-by-paul-finch.html) edited by Paul Finch
+* The Antiquity of Dark Things by D.M. Keenan
+* The Hidden People by Alison Littlewood
+* The Village Witch by Neil Davies
+* The Doll Man by William Couper
+* The Factory by Mark West
+* Concrete Grove by Gary McMahon
+* Hex by Thomas Olde Heuvelt
+* Forever Vacancy by various authors
+* Mayhem by Sarah Pinborough
+* The Scarlet Gospels by Clive Barker (and also a review of the original Hellraiser film )
+* The Mothers by Mike Jones
+* Lucky’s Girl by William Holloway
+* Campfire Chillers by Dave Jeffery
+* The Pines by Robert Dunbar
+* Terror Tales of the Lake District edited by Paul Finch
+* The Final Winter by Iain Rob Wright (audiobook)
+* Mountain Man by Keith C Blackmore (audiobook)
+* Elf (film)
+* Ghostbuster (film, 2018 version)
+* The Force Awakens (film)
+* Hunting Grounds (film)
 
-I've also reviewed some audiobooks as I just love being able to indulge my passion for reading whilst also sweeping the floor or cleaning the bath:
+I've also conducted interviews with Keith C Blackmore and John Connolly.
 
-* [The Final Winter](http://gingernutsofhorror.com/4/post/2015/01/audiobook-review-the-final-winter-by-iain-rob-wright.html) by Iain Rob Wright
-* [Mountain Man](http://gingernutsofhorror.com/4/post/2015/01/horror-fiction-review-mountain-man-series-by-keith-c-blackmore.html) by Keith C Blackmore
+On the British Fantasy website I have reviewed the following books:
+
+* The Tower of Living and Dying by Anna Smith Spark
+* The Green Man's Heir by Juliet McKenna
+* A Gathering of Ravens by Scott Oden
+* Red Sister by Mark Lawrence
+* The Crow Garden by Alison Littlewood
+* Sleeping Beauties by Stephen King and Owen King
+* The Court of Broken Knives by Anna Smith Spark
+
+For Jane and Bex's Book Blog, I've reviewed these books:
+
+* Uprooted by Naomi Novik
+* The Ritual by Adam Nevill
+* The Copper Promise by Jen Williams
+
+I've had various articles appear on websites such as Ginger Nuts of Horror, War History Online and Tor.com.
