@@ -4,13 +4,20 @@ title: Lee Harris Princess Questions
 category: princessquestions
 ---
 
-**_2018 is the year of the princess!**_ 
+**_2018 is the year of the princess!_**
 
 Throughout the year, I will be asking authors from a variety of genres as well as a host of others from editors to academics, what they think makes a definitive princess.
 
-This month we are joined by [bio & picture]
+Lee Harris is the Senior Editor at [Tor.com](https://www.tor.com/) Publishing, and the former Senior Editor of Angry Robot Books. He has been nominated for the Hugo Award twice – once for Editor (Long Form) and once for Editor (Short Form).
 
-![alt text](Dropbox/Nucy Share/Charlotte website/ Year of the Princess questions/ )
+He has far too many unread comics, books and unwatched DVDs and downloads – not that that would ever prevent him from buying more! He lives in York and works in both the original and also New York.
+
+He loves the theatre (especially musicals) and if you ever invite him to karaoke, you'd better be prepared to give up that mic!
+
+<div class="col-sm-4 pull-right">
+<img class="img-responsive" src="/img/Year Of The Princess Questions/Lee Photo.jpg" alt="Lee Harris">
+<p class="text-right">(Image credit: Al Bogdan, 2017)</p>
+</div>
 
 **_1. What three attributes do you think a princess ought to have?_**
 
@@ -43,5 +50,4 @@ Something smart that would not be inappropriate if conducting official business,
 Well, some princesses become queens. Where a royal household has more than one princess, they wouldn’t all expect to ascend, unless by a series of unfortunate deaths.
 
 My favourite queen would have to be the killer one that Freddie Mercury sang about. I mean, she’s dynamite with a laser beam, guaranteed to blow your mind, anytime. What’s not to love? Oh, and she keeps her Moët et Chandon in her pretty cabinet. I admire anyone who has champagne or prosecco at the ready!
-
 
