@@ -14,6 +14,9 @@ This month we are joined by Cheryl Morgan. Cheryl is a writer, editor and publis
 
 You can find her online on Twitter as [@CherylMorgan](https://twitter.com/CherylMorgan) and at her blog, Cheryl’s Mewsings [Cheryl-morgan.com](https://www.cheryl-morgan.com).
 
+You can find her online on Twitter as [@CherylMorgan](https://twitter.com/CherylMorgan); at her blog, Cheryl’s Mewsings [Cheryl-morgan.com](https://www.cheryl-morgan.com); and at her fanzine, Salon Future [www.salonfutura.net](http://www.salonfutura.net).
+
+
 <div class="col-sm-4 pull-right">
 <img class="img-responsive" src="/img/Year Of The Prince Questions/CherylMorgan.jpg" alt="Cheryl Morgan">
 </div>
