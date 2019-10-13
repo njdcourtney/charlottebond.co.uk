@@ -12,9 +12,7 @@ This year, I will be asking authors from a variety of genres as well as a host o
 
 This month we are joined by Cheryl Morgan. Cheryl is a writer, editor and publisher, and the owner of Wizard’s Tower Press. She also co-hosts the Women’s Outlook Show on Ujima Radio in Bristol [ujimaradio.com](https://www.ujimaradio.com). She plays a lot of funk.
 
-You can find her online on Twitter as [@CherylMorgan](https://twitter.com/CherylMorgan) and at her blog, Cheryl’s Mewsings [Cheryl-morgan.com](https://www.cheryl-morgan.com).
-
-You can find her online on Twitter as [@CherylMorgan](https://twitter.com/CherylMorgan); at her blog, Cheryl’s Mewsings [Cheryl-morgan.com](https://www.cheryl-morgan.com); and at her fanzine, Salon Future [www.salonfutura.net](http://www.salonfutura.net).
+You can find her online on Twitter as [@CherylMorgan](https://twitter.com/CherylMorgan); at her blog, Cheryl’s Mewsings [Cheryl-morgan.com](https://www.cheryl-morgan.com); and at her fanzine, Salon Futura [www.salonfutura.net](http://www.salonfutura.net).
 
 
 <div class="col-sm-4 pull-right">
