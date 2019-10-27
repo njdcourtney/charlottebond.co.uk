@@ -43,6 +43,11 @@
          	  <li><a href="https://twitter.com/offred85"><i class="fa fa-twitter" style="color: #00aced"></i> Twitter</a></li>
             <li><a href="https://www.linkedin.com/pub/charlotte-bond/a4/897/16b"><i class="fa fa-linkedin" style="color: #007bb6"></i> LinkedIn</a></li>          </ul>
           <hr>
+          <h4>Recent blog posts</h4>
+            {% for post in site.posts offset: 0 limit: 10  %}
+            <p><a href="{{ post.url }}">{{ post.title }}</a></p>
+            {% endfor %}
+          <hr>
           <h4>Mailing List</h4>
           <p>Coming soon!</p>
         </div>
