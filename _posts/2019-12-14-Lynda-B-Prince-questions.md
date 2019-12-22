@@ -10,7 +10,7 @@ Throughout 2018, I asked friends and contacts what they thought made a good prin
 
 This year, I will be asking authors from a variety of genres as well as a host of others from editors to academics, what they think makes a definitive prince.
 
-This month we are joined by Dr Lynda Boothroyd. Lynda is an Associate Professor of Psychology and does research on how biology and culture both shape our ideas about what is attractive. Recently, this has included work on the impacts of TV and dolls on body size ideas. In her free time, she's a lover of fantasy and historical fiction and occasionally still plays medieval dress-up. She wanted very much to be a princess when she was a child.
+This month we are joined by Prof Lynda Boothroyd. Lynda is Professor of Psychology and does research on how biology and culture both shape our ideas about what is attractive. Recently, this has included work on the impacts of TV and dolls on body size ideas. In her free time, she's a lover of fantasy and historical fiction and occasionally still plays medieval dress-up. She wanted very much to be a princess when she was a child.
 
 <img class="img-responsive col-sm-4 pull-right" src="/img/Year Of The Princess Questions/Lynda photo.jpg" alt="Lynda Boothroyd">
 
