@@ -3,19 +3,17 @@ layout: default
 title: Novels and Novellas
 ---
 
-### Broom Hill - coming 2020!
+### A Feast to Catch Souls - available early 2021!
 
-<img class="img-responsive col-sm-3 pull-right" src="/img/Broom Hill.jpg" alt="Broom Hill Cover">
+<img class="img-responsive col-sm-3 pull-right" src="/img/FeastSoulsCover.jpg" alt="Feast to Catch Souls Cover">
 
-Cariad and her brother are forced to travel and pay homage to their overlord, Lord Johann. The lives of their people depend on them.
+*Eat not, or be devoured yourself.*
 
-But Johann is a man with dark appetites, and his roving eye falls on Cariad. He makes a deadly bet with her that she must accept and win if she is to leave his castle alive.
+It is well-known that the Devil holds an annual feast in the graveyard of St. Michael’s, a church in the small Yorkshire village in Kirkby Malham. But no one knows why.
 
-Cariad's future - or her death - is awaiting her on Broom Hill
+On 19 November 1899, sexton Harry Kelsall finds himself an unwitting guest at the Devil’s feast, along with all the dead of the graveyard. If he doesn’t figure out how to break the feast’s curse, then he will forfeit his own soul at daybreak.
 
-Filled dark magic and based on a folk ballad, this story is the second stand alone novel in the Forsaken Fables world. 
-
-Broom Hill will be available in 2020.
+Harry knows the stories. He knows the legends. And none of them agree on how he should save himself. One wrong move will see him join the tormented souls around him, but if he does nothing, he will be just as damned.
 
 <div class="clearfix"></div>
 
