@@ -5,7 +5,7 @@ title: Prince Questions
 
 2019 is the year of the prince! 
 
-Throughout 2018, I asked friends and contacts what they thought made a good princess. You can find the answers to those questions [here]({% link categories/princequestions.md %}) 
+Throughout 2018, I asked friends and contacts what they thought made a good princess. You can find the answers to those questions [here](/categories/princessquestions.html) 
 
 This year, I will be asking authors from a variety of genres as well as a host of others from editors to academics, what they think makes a definitive prince.
 
