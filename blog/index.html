@@ -5,50 +5,48 @@ title: Recent blog posts
 
 <!-- This loops through the paginated posts -->
 <div class="row">
-{% assign loopindex = 0 %}
 {% for post in paginator.posts %}
-    {% assign loopindex = loopindex | plus: 1 %}
-    <div class="col-sm-6">
-        <div class="container-fluid well">
-        <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-        <p>{{ post.excerpt }}</p>
-        <p class="text-right">Posted on {{ post.date | date: '%B %-d, %Y' }} <br> (<a href="{{ post.url }}">Read more...</a>)</p>
+    <div class="col-sm-6 col-md-4 p-2">
+        <div class="card" >
+            <div class="card-body">
+            <h5 class="card-title"><a href="{{ post.url }}">{{ post.title }}</a></h5>
+            <h6 class="card-subtitle mb-2 text-muted">Posted on {{ post.date | date: '%B %-d, %Y' }}</h6>
+            <p class="card-text">{{ post.excerpt }}</p>
+            <a href="{{ post.url }}" class="card-link">Read more...</a>
+            </div>
         </div>
-    </div>
-    {% assign rowfinder = loopindex | modulo: 2 %}
-    {% if rowfinder == 0 %}
-        <div class="clearfix visible-sm-block visible-md-block visible-lg-block"></div>
-    {% endif %}
+      </div>
 {% endfor %}
 </div>
-
-
 {% if paginator.total_pages > 1 %}
-<div class="row">
-<div class="col-sm-8 col-sm-offset-2 text-center">
-    <ul class="pagination pagination-lg">
-    {% if paginator.previous_page %}
-        <li><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo;</a></li>
-    {% else %}
-        <li class="disabled"><a href="#">&laquo;</a></li>
-    {% endif %}
+    <div class="row">
+        <div class="col-8 col-offset-2 mx-auto">
+            <nav aria-label="Page navigation">
+                <ul class="pagination">
 
-    {% for page in (1..paginator.total_pages) %}
-        {% if page == paginator.page %}
-            <li class="active"><a href="#">{{ page }} <span class="sr-only">(current)</span></a></li>
-        {% elsif page == 1 %}
-            <li><a href="{{ '/blog/index.html' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a></li>
-        {% else %}
-            <li><a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></li>
-        {% endif %}
-    {% endfor %}
+                    {% if paginator.previous_page %}
+                        <li class="page-item"><a class="page-link" href="{{ paginator.previous_page_path | relative_url }}">Previous</a></li>
+                    {% else %}
+                        <li class="page-item disabled"><a class="page-link" href="#">Previous</a></li>
+                    {% endif %}
 
-    {% if paginator.next_page %}
-        <li><a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">&raquo;</a></li>
-    {% else %}
-        <li class="disabled"><a href="#">&raquo;</a></li>
-    {% endif %}
-    </ul>
-</div>
-</div>
+                    {% for page in (1..paginator.total_pages) %}
+                        {% if page == paginator.page %}
+                            <li class="page-item active"><a class="page-link" href="#">{{ page }}</a></li>
+                        {% elsif page == 1 %}
+                            <li class="page-item"><a class="page-link" href="{{ '/blog/' | relative_url }}">{{ page }}</a></li>
+                        {% else %}
+                            <li class="page-item"><a class="page-link" href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a></li>
+                        {% endif %}
+                    {% endfor %}
+
+                    {% if paginator.next_page %}
+                        <li class="page-item"> <a class="page-link" href="{{ paginator.next_page_path | relative_url }}">Next</a></li>
+                    {% else %}
+                        <li class="page-item disabled"><a class="page-link" href="#">Next</a></li>
+                    {% endif %}
+                </ul>
+            </nav>
+        </div>
+    </div>
 {% endif %}

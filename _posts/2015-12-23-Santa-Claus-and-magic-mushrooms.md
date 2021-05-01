@@ -19,7 +19,11 @@ Forget, for a moment, what you know about Santa Claus, and look at what the poem
 
 The first illustration of this famous poem was by TC Boyd. Since he was Bavarian, Boyd was influenced by the traditions associated with Knecht Ruprecht, so in the picture that accompanied the poem, the figure of Saint Nicholas looked more like a grinning gnome that a cheery old gent.
 
-<img class="img-responsive center-block" src="/img/t_c_boyd_santaclaus.preview.jpg">
+{% include img-centre.html 
+    img="/static/img/t_c_boyd_santaclaus.preview.jpg" 
+    alt="Santa Dancing"
+    link="/static/img/t_c_boyd_santaclaus.preview.jpg" 
+%}
 
 So thus far we have: Moore's diminutive descriptions, a Knecht Ruprecht figure drawn by Boyd, and the historic Saint Nicholas as possible origins for the current Santa Claus. Which one of these is the true ancestor of Santa Claus? The answer: all of them! And not just them!
 

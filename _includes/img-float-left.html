@@ -1,0 +1,8 @@
+<div class="pe-2 col-sm-4 float-start">
+    <a href="{{ include.link }}">
+        <img class="img-fluid" src="{{ include.img }}" alt="{{ include.alt }}">
+    </a>
+    {% if include.caption %}
+    <p class="text-start">{{ include.caption }}</p>
+    {% endif %}
+</div>

@@ -11,8 +11,8 @@ I also cashed in a babysitting token for Hubby to watch Munchkin while I went to
 
 First was a short but sweet demonstration of quarter-staff fighting, a recreation of a fight scene from one of the Robin Hood films. Andy Deane played Little John and Andy Balmforth was Robin Hood. You can check out the video I took below.
 
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/4XLPz5OOkNg" allowfullscreen></iframe>
+<div class="ratio ratio-16x9">
+  <iframe src="https://www.youtube.com/embed/4XLPz5OOkNg" title="Robin Hood and Little John" allowfullscreen></iframe>
 </div>
 
 After the demonstration, I am indebted to both Andy Deane who chatted to me about fighting techniques, and also Andy Balmforth who took me on a tour of the Royal Armouries' archery section. I can tell you there is nothing quite like being shown the intricacies of the longbow by Robin Hood himself!
@@ -21,14 +21,16 @@ And when Robin Hood eventually got dragged away from our in-depth conversation b
 
 Breakdown of the fight part 1:
 
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/XbA8_PeBNp0" allowfullscreen></iframe>
+<div class="ratio ratio-16x9">
+  <iframe src="https://www.youtube.com/embed/XbA8_PeBNp0" title="Breakdown of the fight part 1" allowfullscreen></iframe>
 </div>
+
 
 Part 2 and the fight itself
 
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/0t8AUGnMtHg" allowfullscreen></iframe>
+<div class="ratio ratio-16x9">
+  <iframe src="https://www.youtube.com/embed/0t8AUGnMtHg" title="Breakdown of the fight part 2" allowfullscreen></iframe>
 </div>
+
 
 Demonstrations and talks like this can prove invaluable if you're writing military, historical or fantasy pieces. At Fantasy Con in 2014, I attended a panel which involved (among others) [Juliet E McKenna](http://www.julietemckenna.com/) and [Adrian Tchaikovsky](http://shadowsoftheapt.com/) who discussed how practising martial arts in real life really helped with their writing. The Royal Armouries is a treasure trove of research for a writer, and if there's one near you, I strongly suggest checking it out.

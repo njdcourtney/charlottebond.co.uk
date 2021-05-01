@@ -5,7 +5,7 @@ title: Free Story
 
 To celebrate National Tell A Fairy Tale Day in February 2018, I released a free fairy tale for all to enjoy called "[The Final Wish]({% link _posts/2018-02-26-Tell-a-Fairy-Tale-Day.md %})" which you can download for free.
 
-If you want something more regular, I also run The Singing Wolf on Twitter. Every Wednesday, I post a new Twitter-length original fairy tale. You can follow me  through [@ravenwithcheese](https://twitter.com/RavenWithCheese).
+If you want something more regular, I also run The Singing Wolf on Twitter. Every Wednesday, I post a new Twitter-length original fairy tale. You can follow me through [@ravenwithcheese](https://twitter.com/RavenWithCheese).
 
 To whet your appetite, here is a piece of micro-fiction I wrote for the Nancy Kilpatrick writing workshop at Horror Con 2010. Many thanks to the others of the workshop for suggesting the title.
 
