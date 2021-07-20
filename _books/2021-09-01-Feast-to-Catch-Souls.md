@@ -1,5 +1,5 @@
 ---
-title: A Feast to Catch Souls - available early 2021!
+title: A Feast to Catch Souls - coming September 2021!
 cover: /static/covers/FeastSoulsCover.jpg
 ---
 
