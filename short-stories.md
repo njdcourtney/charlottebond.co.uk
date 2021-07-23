@@ -6,8 +6,8 @@ title: Short Stories
 {% assign sorted-posts = site.short-stories | reverse %}
 {% for story in sorted-posts %}
 
-    <h3> {{story.title}}</h3>
+### {{story.title}}
 
-    {{ story.content | markdownify }}
+{{ story.content | markdownify }}
 
 {% endfor %}
