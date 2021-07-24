@@ -13,7 +13,7 @@ I have a number of novels and novellas out now and more coming soon.
 {% for story in sorted-posts %}
    * {{story.title}} {% endfor %}
 
-Check out the <a href="{% link fiction.md %}">fiction page</a> for more details.</p>
+Check out the [fiction page]({% link fiction.md %}) for more details.
 
 ### Podcasting
 
@@ -23,9 +23,9 @@ Charlotte is one-third of the award-winning podcast Breaking the Glass Slipper. 
 
 I've done a number of features on my blog over the recent years:
 
-  * [Flash Fiction]({% link features/flashfiction/index.md %}) A selection of short stories just for this blog<
+  * [Flash Fiction]({% link features/flashfiction/index.md %}) A selection of short stories just for this blog
   * [Prince Questions]({% link features/princequestions/index.md %})  This year, I will be asking authors from a variety of genres as well as a host of others from editors to academics, what they think makes a definitive prince.
-  * [Princess Questions]({% link features/princessquestions/index.md %} ) Throughout the year, I will be asking authors from a variety of genres as well as a host of others from editors to academics, what they think makes a definitive princess.<
+  * [Princess Questions]({% link features/princessquestions/index.md %} ) Throughout the year, I will be asking authors from a variety of genres as well as a host of others from editors to academics, what they think makes a definitive princess.
 
 <blockquote class="text-end blockquote mb-0">
   <p>I read because one life isn't enough, and in the page of a book I can be anybody.</p>
